@@ -1,0 +1,12 @@
+onLoad
+onResize
+onUnload
+onMove
+onMouseOver
+onMouseOut
+onMouseDown
+onMouseUp
+onMousePress
+onClick
+onDblClick
+onError

@@ -1,0 +1,18 @@
+var=new Array[val]
+var=new Boolean()
+var=new Date()
+var=new Function()
+var=window.prompt("Generic Message","Generic Title")
+window.status="Generic Status Title"
+.length()
+.substring(x,y)
+.charAT()
+.concat()
+.fromCharCode()
+.indexOf()
+.lastIndexOf()
+.splice()
+.split()
+.substring()
+.toLowerCase()
+.toUpperCase()
